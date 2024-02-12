@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header{
+    @apply p-6 border-b flex justify-between items-center bg-blue-500 rounded-lg my-4 mx-3
+}
